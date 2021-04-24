@@ -32,6 +32,9 @@
 
 <a href = "mailto: kkthakur100101@gmail.com">
   <code><img width="40px" src="https://img.icons8.com/plasticine/2x/gmail.png" /></code>
+  <a href = "mailto: thakur__sarkar/">
+  <code><img width="40px" src="https://img.icons8.com/plasticine/2x/gmail.png" /></code>
+  
 </a>
 
 <br><br>
