@@ -10,7 +10,7 @@
 
 # I'm kandarp kumar thakur 
 
-| Coder |
+| Coder | Youtuber | Security Advisory | Ethical Hacker |
 
 ## 🧐About me: 
 
