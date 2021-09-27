@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="<iframe src="https://giphy.com/embed/B3VjV2Rl8jvkA" width="480" height="272" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/world-B3VjV2Rl8jvkA">via GIPHY</a></p>" width="30%">
+  <div style="width:100%;height:0;padding-bottom:82%;position:relative;"><iframe src="https://giphy.com/embed/MeJgB3yMMwIaHmKD4z" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/2000s-00s-middle-school-MeJgB3yMMwIaHmKD4z">via GIPHY</a></p>
   <br><br>
   </p>
 
