@@ -16,7 +16,7 @@
 
 * Currently I’m pursuing my bachelors in computer Application from trinity institute of professional studies .
 * I am not an experienced person but i am good in some languages.
-* Expert in harware or c programing ,HTML ,CSS ,LINUX , NETWORKING .
+* Expert in harware or c & c++ ,HTML ,CSS ,LINUX , NETWORKING .
 * Learning about many new things and trying out everything i can.
 
 
