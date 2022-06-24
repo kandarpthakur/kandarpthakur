@@ -1,7 +1,7 @@
 <img width="100%" height="50%" src="https://cdn.statically.io/img/timelinecovers.pro/facebook-cover/download/there-is-no-place-like-127-0-0-1-facebook-cover.jpg">
 <h1 align="center">Hi 👋, I'm Kandarp Kumar Thakur</h1>
 <h3 align="center">Netwoking and Ethical Hacking student from India</h3>
-<img align="right"  width="30%" height="10%" alt="Coding" hight="300"  margin-bottom: 25px; src="https://c.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif">
+<img align="right"  width="20%"  alt="Coding" hight="300"  margin-bottom: 25px; src="https://c.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif">
 
 - 🔭 I’m currently working on **Rubber ducky project**
 
