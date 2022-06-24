@@ -1,46 +1,30 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif?cid=ecf05e47a3qg4u5xkdp07vq5ou391coazipo8ynjl14b48bj&rid=giphy.gif&ct=g" width="30%">
-  <br><br>
-  </p>
+<img width="100%" height="50%" src="https://cdn.statically.io/img/timelinecovers.pro/facebook-cover/download/there-is-no-place-like-127-0-0-1-facebook-cover.jpg">
+<h1 align="center">Hi 👋, I'm Kandarp Kumar Thakur</h1>
+<h3 align="center">Netwoking and Ethical Hacking student from India</h3>
+<img align="right"  width="30%" height="10%" alt="Coding" hight="300"  margin-bottom: 25px; src="https://c.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif">
 
-<!--
-**kandarpthakur/kandarpthakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Rubber ducky project**
 
--->
+- 🌱 I’m currently learning **Netwoking and ethical hacking**
 
-# I'm kandarp kumar thakur 
+- 👯 I’m looking to collaborate on **Tool for ethical hacking**
 
-| Coder | Youtuber | Security Advisory | Ethical Hacker |
+- 💬 Ask me about **cyber security**
 
-## 🧐About me: 
+- 📫 How to reach me **kkthakur100101@gmail.com**
 
-* Currently I’m pursuing my bachelors in computer Application from trinity institute of professional studies .
-* I am not an experienced person but i am good in some languages.
-* Expert in harware or c & c++ ,HTML ,CSS ,LINUX , NETWORKING .
-* Learning about many new things and trying out everything i can.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/thakur__sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thakur__sarkar" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/kk thakur vlogs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kk thakur vlogs" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kkthakur100101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kkthakur100101" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-## I am good at :
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
- <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-## 💻You can find me on:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kkthakurvlogs&show_icons=true&locale=en&layout=compact" alt="kkthakurvlogs" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kkthakurvlogs&show_icons=true&locale=en" alt="kkthakurvlogs" /></p>
 
-<a href = "mailto: kkthakur100101@gmail.com">
-  <code><img width="40px" src="https://img.icons8.com/plasticine/2x/gmail.png" /></code>
-<a href="https://www.instagram.com/thakur__sarkar/">
-  <code><img width="40px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" /></code>
-</a>
-  
-<br><br>
-
-<details>
-  <summary> <b> My github stats </b> <i>(click to expand!)</i> </summary>
-  
-  <br>
-  
-  [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=kandarpthakur&hide=["issues","stars"]&show_icons=true&title_color=fff&icon_color=2196F3&text_color=2196F3&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kkthakurvlogs&" alt="kkthakurvlogs" /></p>
